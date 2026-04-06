@@ -1,4 +1,4 @@
-Установка и использование:
+# Установка и использование:
 1. Установите FFmpeg:
 Windows:
 
@@ -25,8 +25,8 @@ python video_spliter.py video.mp4
 python video_spliter.py video.avi 1.5
 
 # Полный путь к файлу
-python video_spliter.py "C:/Videos/my_movie.mkv" 2
-Пример работы:
+python video_spliter.py "C:/Videos/my_movie.mkv"
+
 bash
 $ python video_spliter.py "Big Movie.mp4"
 
