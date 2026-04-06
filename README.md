@@ -3,10 +3,10 @@
 Windows:
 
 bash
-# Через chocolatey
+Через chocolatey
 choco install ffmpeg
 
-# Или скачайте с официального сайта https://ffmpeg.org/download.html
+Или скачайте с официального сайта https://ffmpeg.org/download.html
 macOS:
 
 bash
